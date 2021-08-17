@@ -5,3 +5,12 @@ body {
   font-family: "Tajawal", sans-serif;
   font-weight: 500;
 }
+
+.have-error {
+  border: 1px solid red;
+}
+
+.input-error {
+  font-size: 13px;
+  color: red;
+}
